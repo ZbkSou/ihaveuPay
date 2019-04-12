@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/IhaveuPay.iml" filepath="$PROJECT_DIR$/IhaveuPay.iml" />
       <module fileurl="file://$PROJECT_DIR$/IhaveuPayBase/IhaveuPayBase.iml" filepath="$PROJECT_DIR$/IhaveuPayBase/IhaveuPayBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payannotations/payannotations.iml" filepath="$PROJECT_DIR$/payannotations/payannotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/payannotations/paycompiler.iml" filepath="$PROJECT_DIR$/payannotations/paycompiler.iml" />
       <module fileurl="file://$PROJECT_DIR$/wxgenerator/wxgenerator.iml" filepath="$PROJECT_DIR$/wxgenerator/wxgenerator.iml" />
     </modules>
